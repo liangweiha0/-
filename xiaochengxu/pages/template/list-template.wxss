@@ -1,0 +1,60 @@
+
+.tmpContainer{
+
+  display: flex;
+  flex-direction: column;
+  border-top:1rpx solid #eee;
+  border-bottom: 1rpx solid #eee;
+  margin: 10rpx 0; 
+}
+
+.avatar_date image{
+  width: 60rpx;
+  height: 60rpx;
+  vertical-align: middle;
+  margin-right:40rpx ;
+
+}
+
+.avatar_date{
+  padding: 10rpx;
+}
+
+.avatar_date text{
+  font-size: 32rpx;
+}
+
+
+.company{
+  margin-left: 10rpx;
+  font-size: 30rpx;
+  font-weight: 800;
+  vertical-align: middle;
+}
+.contentImg{
+   height: 460rpx;
+   width: 100%;
+ 
+  
+}
+.content{
+  font-size: 32rpx;
+  text-indent: 32rpx;
+}
+.collection image{
+  width: 32rpx;
+  height: 32rpx;
+  vertical-align: middle;
+  margin-right: 10rpx;
+  
+}
+.collection text{
+  font-size: 28rpx;
+  margin-right: 10rpx;
+}
+
+ image{
+  width: 100%;
+  height: 460rpx;
+  
+}
